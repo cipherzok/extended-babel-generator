@@ -1,6 +1,6 @@
 # Extended @babel/generator
 
-Modification of [@babel/generator](https://babeljs.io/docs/babel-generator) v8.1.0 that adds more options.
+Modification of [@babel/generator](https://babeljs.io/docs/babel-generator) v8.1.0 focused on pretty code generation.
 
 ## Install
 
